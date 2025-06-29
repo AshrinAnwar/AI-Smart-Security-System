@@ -37,14 +37,6 @@ The system accepts the following commands via Serial Monitor to simulate AI cont
 
 ---
 
-## 🖼️ Circuit Diagram
-
-![Circuit Diagram](https://github.com/yourusername/AI-Smart-Security-System/blob/main/images/circuit_diagram.png)
-
-> Replace the link above with your actual GitHub image URL
-
----
-
 ## 📂 Files Included
 
 - `AI_Smart_Security_System.ino` — Arduino source code  
@@ -73,6 +65,6 @@ The system accepts the following commands via Serial Monitor to simulate AI cont
 ## 👤 Author
 
 **Ashrin A.**  
-[LinkedIn](https://www.linkedin.com/in/ashrin-anwar) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/ashrin-anwar) | [GitHub](https://github.com/AshrinAnwar)
 
 > Made with ❤️ as a hobby project blending Arduino + AI logic!
